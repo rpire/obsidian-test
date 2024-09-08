@@ -1,1 +1,6 @@
-{}
+{
+  "accentColor": "#bada55",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Consolas"
+}

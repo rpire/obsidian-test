@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d9d7fa6e9f36e0f6",
+        "id": "97f1d74fe56bc36a",
         "type": "tabs",
         "children": [
           {
-            "id": "653fcc42987fd482",
+            "id": "f3fc36dddd8946c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": true
               }
             }
           }
@@ -69,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "84167867f783ef70",
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +151,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfb623841aa4de6c",
+  "active": "f3fc36dddd8946c2",
   "lastOpenFiles": [
     "README.md"
   ]
