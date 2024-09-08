@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           },
           {
-            "id": "c0e99005501a4cf8",
+            "id": "c99ba62772ea61a8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -155,8 +155,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "653fcc42987fd482",
+  "active": "dfb623841aa4de6c",
   "lastOpenFiles": [
-    "README.md.md"
+    "README.md"
   ]
 }
